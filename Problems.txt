@@ -1,0 +1,87 @@
+***
+You roll a six-sided die whose sides are numbered from 1 through 6. Find:
+Probability of rolling (4) *** 1/6 ***
+
+***
+You roll a six-sided die whose sides are numbered from 1 through 6. Find:
+Probability of rolling an odd number *** 1/2 ***
+
+***
+You roll a six-sided die whose sides are numbered from 1 through 6. Find:
+Probability of rolling a number less than 5 *** 2/3 ***
+
+***
+You roll a six-sided die whose sides are numbered from 1 through 6. Find:
+Probability of rolling a 1 or a 4 *** 1/3 ***
+
+***
+You roll a six-sided die whose sides are numbered from 1 through 6. Find:
+Probability of rolling a 1, 2, 3, 4, 5, or 6 *** 1 ***
+
+***
+You roll a six-sided die whose sides are numbered from 1 through 6. Find:
+Probability of not rolling 4 *** 5/6 ***
+
+***
+You roll a six-sided die whose sides are numbered from 1 through 6. Find:
+Probability of rolling 7 *** 0 ***
+
+***
+P(#) is the probability of a number
+A card is randomly selected from a standard deck of 52 cards. What is the 
+P(ace or face card)? There are 4 aces in a deck of cards and 12 face cards.
+ *** 4/13 ***
+
+***
+P(#) is the probability of a number
+A card is randomly selected from a standard deck of 52 cards. What is the 
+P(heart or face card)? There are 13 hearts in a deck of cards and 12 face
+ cards. 3 cards are both a heart and a face card. *** 11/26 ***
+
+***
+P(#) is the probability of a number
+There are 300 seniors at Salt Lake City High. Forty of them take Calculus
+ and fifty-five of them take Physics. Of these, twenty-five students take both Calculus and Physics.
+ What is the probability that a randomly selected student takes Calculus or Physics?
+ *** 7/30 ***
+
+***
+P(#) is the probability of a number
+You are rolling a six-sided die and spinning the spinner shown below. Find P(even number and red).
+ *** 1/8 ***
+
+***
+H is Heads, T is tails
+What is the probability that a coin will be flipped 4 times and the result will be HTHT?
+ *** 1/16 ***
+
+***
+A box contains seven green marbles, six blue marbles and eight orange marbles. Without looking, you choose
+two marbles out of the bag. What is the probability that the first two picked will both be green if you don’t
+replace the marble after the first pick? *** 1/10 ***
+
+***
+A face-down deck of cards contains three hearts, six diamonds, four clubs and six spades. What is the
+probability that the first two cards drawn will both be diamonds if the cards are not replaced after each pick?
+ *** 5/57 ***
+
+***
+A pet store contains 35 light green parakeets (14 females and 21 males) and 44 sky blue parakeets (28
+females and 16 males). You randomly choose one of the parakeets. What is the probability that it is a
+female or a sky blue parakeet? *** 58/79 ***
+
+***
+Of 162 students honored at an academic awards banquet, 48 won awards for mathematics and 78 won
+awards for English. Fourteen of these students won awards for both mathematics and English. One of
+the 162 students is chosen at random to be interviewed for a newspaper article. What is the probability
+that the student interviewed won an award for English or Mathematics? *** 112/162 ***
+
+
+
+
+
+
+
+ 
+ 
+ 
